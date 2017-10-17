@@ -8,3 +8,6 @@ Git supports all file formats
 
 
 a. Making the first changes
+
+
+merging example
