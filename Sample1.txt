@@ -5,3 +5,6 @@ This is a sample to learn GitHub
 This is the first step to create a file,
 
 Git supports all file formats
+
+
+a. Making the first changes
