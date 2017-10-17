@@ -10,3 +10,6 @@ Git supports all file formats
 a. Making the first changes
 
 b. making the second changes to create a branch
+
+merging example
+
